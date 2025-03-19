@@ -37,16 +37,14 @@
     <li>Простая интеграция новых функций.</li>
 </ul>
 
-<p>Mini-Twitter — это стильный и удобный способ обмена сообщениями.</p>
-
 <p>
-  <img src="1.png" alt="Скриншот Mini-Twitter">
+  <img src="src/1.png" alt="Mini-Twitter">
 </p>
 
 <p>
-  <img src="2.png" alt="Скриншот Mini-Twitter">
+  <img src="src/2.png" alt="Mini-Twitter">
 </p>
 
 <p>
-  <img src="3.png" alt="Скриншот Mini-Twitter">
+  <img src="src/3.png" alt="Mini-Twitter">
 </p>
